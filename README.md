@@ -5,8 +5,8 @@ A Java console-based application demonstrating practical applications of
 data structures, algorithms, searching, graph concepts, and algorithmic complexity.
 
 ## Team Members
-- **Name:** [ඔයාගේ නම]
-- **Student ID:** [ඔයාගේ ID]
+- **Name:** S.D.D.A.SIYAMBALAPITIYA
+- **Student ID:** 22UG3-0270
 - **Assigned Responsibility:** All components (Individual Project)
 
 ## Individual Contribution
